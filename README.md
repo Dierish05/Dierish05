@@ -122,16 +122,12 @@ Here are some ideas to get you started:
 </p>        
 <!--- stats (end) -->
 
-
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=Dierish05&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 <div align="center">
-<div align=center>
+<div align=center">
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
